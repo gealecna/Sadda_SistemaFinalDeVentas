@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="https://TU_USUARIO.github.io/NOMBRE_DEL_REPOSITORIO/" href="proyecto.jnlp">
+    <information>
+        <title>Tu Nombre de Proyecto</title>
+        <vendor>Grupo Sadda - Cibertec</vendor>
+        <description>Proyecto JFrame con JNLP</description>
+        <offline-allowed/>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <j2se version="1.8+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="TuProyecto-1.0-SNAPSHOT.jar" main="true"/>
+    </resources>
+    <application-desc main-class="tu.paquete.TuClasePrincipal"/>
+</jnlp>
