@@ -13,5 +13,5 @@
         <j2se version="1.8+" href="http://java.sun.com/products/autodl/j2se"/>
         <jar href="TuProyecto-1.0-SNAPSHOT.jar" main="true"/>
     </resources>
-    <application-desc main-class="tu.paquete.TuClasePrincipal"/>
+    <application-desc main-class="gui.LoginGUI"/>
 </jnlp>
