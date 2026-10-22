@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp spec="1.0+" codebase="https://TU_USUARIO.github.io/NOMBRE_DEL_REPOSITORIO/" href="proyecto.jnlp">
+<jnlp spec="1.0+" codebase="https://gealecna.github.io/Sadda_SistemaFinalDeVentas/" href="proyecto.jnlp">
     <information>
         <title>Tu Nombre de Proyecto</title>
         <vendor>Grupo Sadda - Cibertec</vendor>
